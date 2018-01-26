@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-security-loginform-database-annotation:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringSecurity.war">
+      <element id="artifact" artifact-name="spring-security-loginform-database-annotation:war exploded" />
+    </root>
+  </artifact>
+</component>
